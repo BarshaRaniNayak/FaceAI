@@ -651,7 +651,7 @@ Building Face Finder AI helped me understand:
 
 # 👨‍💻 Author
 
-**Durga Prasad Mishra**
+**Barsha Rani Nayak**
 
 BCA Student
 Interested in:
