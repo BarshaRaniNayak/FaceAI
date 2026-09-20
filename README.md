@@ -1,4 +1,4 @@
-# 🤖 Face Finder AI
+# 🤖 Face Detection AI
 
 > An AI-powered web application that detects human faces in uploaded images and highlights them with bounding boxes.
 
